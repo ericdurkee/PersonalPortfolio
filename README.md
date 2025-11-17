@@ -6,7 +6,7 @@ This portfolio website serves as both a learning project to master JavaScript fu
 
 My purpose for writing this software was to deepen my understanding of JavaScript's capabilities and how it interacts with web browsers. As a cybersecurity professional, understanding how JavaScript handles user input helps me better assess web application security.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/9Jky4sL2I38)
 
 # Development Environment
 
@@ -27,4 +27,5 @@ The software is built entirely with vanilla JavaScript, HTML5, and CSS.
 - Add security headers analysis and display security scores
 - Create a projects section specifically for cybersecurity tools and demonstrations
   
+
 
